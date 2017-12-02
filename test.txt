@@ -1,1 +1,10 @@
-hi buddy
+git config --global user.name = "XX"
+git config --global user.email = "XX"
+git config --list
+git add "file/folder"
+git status
+git commit -m "nodeapp"
+git push origin master
+git push -u origin master
+
+git commit -am "commit message"
